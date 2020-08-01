@@ -1,0 +1,53 @@
+.header { 
+					border: 2px solid black;
+					text-align: center;
+					width: 100%;
+					background-color: orange;
+					color: white;
+
+				}
+		
+		a:link, a:visited {
+ 					  
+ 					  
+					  color: white;
+					  text-align: center;
+					  padding: 10px;
+					  text-decoration: none;
+					  display: inline-block;
+					}
+
+		a:hover, a:active {
+				  background-color: black;
+				}
+		table {
+  				
+  			border-collapse: collapse;
+  				width: 900px;
+  				text-align: center;
+  				margin: auto;
+  				table-layout: fixed;
+
+			  }
+
+		tr,th, td {
+  				text-align: center;
+  				color: white;
+  				padding: 20px;
+  				border: 1px solid #080808;
+  				font-size: 20px;
+  				background:linear-gradient(top, #3c3c3c 0%, #222222 100%);
+  				background:-webkit-linear-gradient(top, #3c3c3c 0%, #222222 100%);
+
+               
+				}
+
+		tr:nth-child(even) {background-color: Gainsboro;}
+
+		.img {
+				display: block;
+  				margin-left: auto;
+  				margin-right: auto;
+			}	
+
+  

@@ -1,0 +1,15 @@
+
+ .showcase h1{
+ 	margin-top: 5%;
+ 	margin-bottom: 5%;
+ 	text-align: center;
+ }
+ #Activities{
+ 	display: flex;
+ 	text-align: center;
+ }
+ #activities img{
+ 	width: 250px;
+ 	border-radius: 10px;
+ 	border:2px solid #000;
+ }
